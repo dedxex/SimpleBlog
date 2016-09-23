@@ -1,0 +1,1 @@
+export  const getPost = "Get_Post";
